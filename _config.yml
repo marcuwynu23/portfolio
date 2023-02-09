@@ -9,6 +9,11 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: marcuwynu23
 github_username:  marcuwynu23
 
+
+include:
+  - _includes
+
+
 # Build settings
 # theme: minima
 # plugins:

@@ -49,93 +49,14 @@
     <title>{{ page.title }}</title>
   </head>
   <body class="main-layout">
-    <header>
-      <nav class="navbar navbar-expand-lg navbar-light shadow-sm border-0">
-        <ul class="navbar-nav">
-          <li class="nav-item">
-            <a class="nav-link" href="/">
-              <p class="fw-bold h5">marcuwynu.com</p>
-            </a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="/"
-              ><i class="fas fa-user-circle mr-2"></i> Profile</a
-            >
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="/skills"
-              ><i class="fas fa-wrench mr-2"></i> Skills</a
-            >
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="/projects"
-              ><i class="fas fa-briefcase mr-2"></i> Projects</a
-            >
-          </li>
+    {% include header.html %}
 
-          <li class="nav-item">
-            <a class="nav-link" href="/snippets"
-              ><i class="fas fa-code mr-2"></i> Snippets</a
-            >
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="/testimonies"
-              ><i class="fas fa-comments mr-2"></i> Testimonies</a
-            >
-          </li>
-        </ul>
-      </nav>
-    </header>
     <main class="h-100">
       <div class="d-flex">
         <div class="container card shadow-sm bg-light border-0 p-3 mr-4 w-75">
           {{ content }}
         </div>
-        <aside class="container card shadow-sm bg-light border-0 p-3 mr-4 w-25">
-          <h4>Blog Posts</h4>
-          <div class="blog-post m-2 px-4 py-1">
-            <p class="blog-title fw-bold">Introduction to Agile Methodology</p>
-            <p>
-              Agile methodology has become a popular approach to software
-              development. In this blog post, we will explore the basics of
-              agile, including its principles, benefits, and how it is applied
-              in a development team.
-            </p>
-            <a
-              href="https://www.example.com/introduction-to-agile"
-              style="display: block; text-align: right"
-              >Read More</a
-            >
-          </div>
-          <div class="blog-post m-2 px-4 py-1">
-            <p class="blog-title fw-bold">Introduction to Agile Methodology</p>
-            <p>
-              Agile methodology has become a popular approach to software
-              development. In this blog post, we will explore the basics of
-              agile, including its principles, benefits, and how it is applied
-              in a development team.
-            </p>
-            <a
-              href="https://www.example.com/introduction-to-agile"
-              style="display: block; text-align: right"
-              >Read More</a
-            >
-          </div>
-          <div class="blog-post m-2 px-4 py-1">
-            <p class="blog-title fw-bold">Introduction to Agile Methodology</p>
-            <p>
-              Agile methodology has become a popular approach to software
-              development. In this blog post, we will explore the basics of
-              agile, including its principles, benefits, and how it is applied
-              in a development team.
-            </p>
-            <a
-              href="https://www.example.com/introduction-to-agile"
-              style="display: block; text-align: right"
-              >Read More</a
-            >
-          </div>
-        </aside>
+        {% include aside.html %}
       </div>
     </main>
   </body>
