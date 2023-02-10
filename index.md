@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Profile
+title: marcuwynu.com | Portfolio | Profile
 ---
 
 <div id="profile-container" class="d-flex align-items-center">

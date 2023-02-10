@@ -1,6 +1,6 @@
 ---
 layout: default
-title: My Snippets
+title:  marcuwynu.com | Portfolio | Snippets
 permalink: /snippets/
 ---
 

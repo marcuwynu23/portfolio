@@ -1,6 +1,6 @@
 ---
 layout: default
-title: My Projects
+title: marcuwynu.com | Portfolio | Projects
 permalink: /projects/
 ---
 

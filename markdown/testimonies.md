@@ -1,6 +1,6 @@
 ---
 layout: default
-title: My Testimonies
+title: marcuwynu.com | Portfolio | Testimonies
 permalink: /testimonies/
 ---
 

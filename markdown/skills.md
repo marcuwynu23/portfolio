@@ -1,6 +1,6 @@
 ---
 layout: default
-title: My Skills
+title: marcuwynu.com | Portfolio | Skills
 permalink: /skills/
 ---
 
