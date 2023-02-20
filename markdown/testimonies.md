@@ -9,7 +9,7 @@ permalink: /testimonies/
 <div class="container">
 <div class="row">
 <div class="col-16">
-  <div class="card m-2 p-2  testimony">
+  <!-- <div class="card m-2 p-2  testimony">
     <p class="quote">“I had the pleasure of working with Mark Wayne Menorca on a software development project and was thoroughly impressed with their technical skills. They not only delivered on time, but their code was clean and efficient. I would highly recommend Mark Wayne Menorca for any IT project.”</p>
     <p class="author">- Jane Smith, Software Development Manager</p>
   </div>
@@ -23,4 +23,4 @@ permalink: /testimonies/
   </div>
   <div class="card m-2 p-2 testimony">
     <p class="quote">“Mark Wayne Menorca has a strong understanding of database management and was able to optimize our system, leading to increased efficiency and faster performance. They are a valuable asset to any IT team.”</p>
-    <p class="author">
+    <p class="author"> -->
