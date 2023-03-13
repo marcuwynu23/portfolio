@@ -11,7 +11,7 @@ title: marcuwynu.com | Portfolio | Profile
   </div>
 </div>
 
-<p class="justify-content-around">
+<p class="text-start mx-4">
 Hi, I'm Mark Wayne Menorca, a backend developer and tools developer with extensive experience in building web applications using Node.js and databases like SQL and NoSQL. I have a thorough understanding of the Model-View-Controller (MVC) architecture, which enables me to create well-structured, easy-to-maintain, and scalable applications. In addition to my work as wev developer, I have also transitioned into the role of a tools developer, creating project templates, snippets, and building developer tools. I am focused on rapid development and create efficient and user-friendly tools that make it easier for other developers to create applications, automate tasks, and streamline workflows. I am also proficient in command-line projects and use various command-line tools to automate tasks and simplify workflows. I am committed to the open-source community and actively participate in projects to contribute to the growth of the community. I am always eager to tackle new challenges and continue growing in my career as a web and tools developer.
 </p>
 
